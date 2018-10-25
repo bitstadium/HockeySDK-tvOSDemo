@@ -1,0 +1,3 @@
+[submodule "Vendor/HockeySDK-tvOS"]
+	path = Vendor/HockeySDK-tvOS
+	url = https://github.com/bitstadium/HockeySDK-tvOS.git
